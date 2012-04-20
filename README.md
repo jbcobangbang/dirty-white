@@ -8,4 +8,5 @@
 <p> 
 <font size = "10" face = "arial" color  = "red"
 Still focusing on HTML </p>
+</font>
 ===========

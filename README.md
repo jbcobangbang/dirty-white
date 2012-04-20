@@ -5,5 +5,7 @@
 <ul> PHP </ul>
 <ul> Ruby on Rails </ul>
 
-<p> Still focusing on HTML </p>
+<p> 
+<font size = "10" face = "arial" color  = "red"
+Still focusing on HTML </p>
 ===========

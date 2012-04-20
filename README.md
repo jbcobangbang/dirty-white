@@ -6,7 +6,6 @@
 <ul> Ruby on Rails </ul>
 
 <p> 
-<font size = "10" face = "arial" color  = "red"
-Still focusing on HTML </p>
-</font>
+<font size = "10" face = "arial" color  = "red">
+Still focusing on HTML </font></p>
 ===========
